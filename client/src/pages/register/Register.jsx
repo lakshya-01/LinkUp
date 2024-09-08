@@ -32,11 +32,9 @@ const Register = () => {
     <div className="register">
       <div className="card">
         <div className="left">
-          <h1>Lama Social.</h1>
+          <h1>LinkUp.</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cum,
-            alias totam numquam ipsa exercitationem dignissimos, error nam,
-            consequatur.
+          LinkUp is a vibrant platform designed for easy networking and engagement. Share posts, follow others, like, and comment on content to foster meaningful connections. With intuitive features, you can stay connected, express your thoughts, and join discussions that matter to you.
           </p>
           <span>Do you have an account?</span>
           <Link to="/login">
